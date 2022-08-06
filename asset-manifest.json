@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/second-alona/static/css/main.7f9e5f64.css",
+    "main.js": "/second-alona/static/js/main.c7082888.js",
+    "index.html": "/second-alona/index.html",
+    "main.7f9e5f64.css.map": "/second-alona/static/css/main.7f9e5f64.css.map",
+    "main.c7082888.js.map": "/second-alona/static/js/main.c7082888.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7f9e5f64.css",
+    "static/js/main.c7082888.js"
+  ]
+}
